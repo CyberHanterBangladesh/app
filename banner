@@ -1,0 +1,33 @@
+## 1st tool
+
+Installation :
+
+git clone https://github.com/Bhai4You/Termux-Banner
+
+cd Termux-Banner
+
+chmod +x requirement.sh
+
+chmod +x t-ban.sh
+
+bash requirement.sh
+
+bash t-ban.sh
+
+2nd tool 
+
+$ termux-setup-storage
+  
+$ pkg update && pkg upgrade && pkg install git -y
+
+$ git clone https://github.com/Bhaviktutorials/T-Remix
+
+$ ls
+
+$ cd T-Remix
+
+$ ls
+
+$ chmod +x *
+
+$ bash t-remix.sh

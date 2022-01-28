@@ -1,0 +1,24 @@
+## 1st tool
+
+
+Installation
+
+apt-get update -y
+
+apt-get upgrade -y
+
+pkg install python -y
+
+pkg install python3 -y
+
+pip install requests
+
+pkg install git -y
+
+git clone https://github.com/Cyber-Anonymous/Em-Bomber
+
+cd Em-Bomber
+
+python3 em-bomber.py
+
+
