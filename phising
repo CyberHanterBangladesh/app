@@ -1,48 +1,23 @@
+## 1st tool
 
 
-#1st Tool
+Installation
 
-Installation :
+apt-get update -y
 
+apt-get upgrade -y
 
->apt update
+pkg install python -y
 
->apt install git -y
+pkg install python3 -y
 
->git clone git://github.com/htr-tech/nexphisher.git
+pip install requests
 
->cd nexphisher
+pkg install git -y
 
-> SETUP : bash setup
+git clone https://github.com/Cyber-Anonymous/Em-Bomber
 
-> SETUP [TERMUX] : bash tmux_setup
+cd Em-Bomber
 
-> Run : bash nexphisher
-
->single coomand :  apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
-
-
-#2nd tool 
-
-> INSTALLATION [Termux] :
-
-> apt-get update -y
-
->apt-get upgrade -y
-
->pkg install python -y
-
->pkg install python2 -y
-
->pkg install git -y
-
->pip install lolcat
-
->git clone https://github.com/noob-hackers/mrphish
-
->cd mrphish
-
->bash setup
-
->bash mrphish
+python3 em-bomber.py
 
